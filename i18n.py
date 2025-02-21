@@ -6,10 +6,10 @@ t = {
         "name" : "name",
         "hello" : "hello",
         "world" : "world",
-    }
+    },
     "es_MX" : {
         "name" : "nombre",
         "hello" : "hola",
         "world" : "mundo",
-    }
+    },
 }

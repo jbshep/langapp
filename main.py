@@ -1,6 +1,8 @@
+from i18n import lang, t
+Ln = t[lang]
 
-name = input("Name? ")
+name = input(f"{Ln['name']}? ")
 if name:
-    print(f"Hello, {name}.")
+    print(f"{Ln['hello']} {name}.")
 else:
-    print(f"Hello, World.")
+    print(f"{Ln['hello']}, {Ln['world']}.")
