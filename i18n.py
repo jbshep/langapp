@@ -1,4 +1,4 @@
-langs = ["en_US", "es_MX"]
+langs = ["en_US", "es_MX", "pig_LA", "ga_IE"]
 lang = "en_US"
 
 t = {
@@ -22,5 +22,12 @@ t = {
         "world" : "orldway",
         "to go" : "otay ogay",
         "year" : "earyay",
+    },
+    "ga_IE" : {
+        "name" : "ainm",
+        "hello" : "dia duit",
+        "world" : "an domhan",
+        "to go" : "dul",
+        "cheers" : "slante",
     },
 }
