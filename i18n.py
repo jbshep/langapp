@@ -1,4 +1,4 @@
-langs = ["en_US", "es_MX"]
+langs = ["en_US", "es_MX", "pig_LA"]
 lang = "en_US"
 
 t = {
