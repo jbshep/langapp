@@ -16,4 +16,11 @@ t = {
         "to go" : "ir",
         "year" : "año",
     },
+    "pig_LA" : {
+        "name" : "amenay",
+        "hello" : "ellohay",
+        "world" : "orldway",
+        "to go" : "otay ogay",
+        "year" : "earyay",
+    },
 }
